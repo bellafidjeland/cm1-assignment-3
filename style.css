@@ -1,0 +1,70 @@
+/* element selevtor */
+h1 {
+    color: khaki; /* property : value ; */
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* class selector */
+.article-title {
+    text-transform: uppercase;
+    /* font-size: 40 px; */
+}
+
+/* id selector */
+/* for a single element on a page */
+#New-York {
+    border: solid;
+    border-width: 10px;
+    border-color: black;
+}
+
+#Niagara-Falls {
+    border: solid;
+    border-width: 10px;
+    border-color: black;
+}
+
+#Chicago {
+    border: solid;
+    border-width: 10px;
+    border-color: black;
+}
+
+#Lyon {
+    border: solid;
+    border-width: 10px;
+    border-color: black;
+}
+
+#Austin {
+    border: solid;
+    border-width: 10px;
+    border-color: black;
+}
+
+#Page {
+    border: solid;
+    border-width: 10px;
+    border-color: black;
+}
+
+#Colorado-Springs {
+    border: solid;
+    border-width: 10px;
+    border-color: black;
+}
+
+#San-Fransisco {
+    border: solid;
+    border-width: 10px;
+    border-color: black;
+}
+
+#Los-Angeles {
+    border: solid;
+    border-width: 10px;
+    border-color: black;
+}
